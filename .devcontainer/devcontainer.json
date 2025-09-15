@@ -1,0 +1,13 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "starkware.cairo1",
+                "tamasfe.even-better-toml"
+            ]
+        }
+    }
+}
